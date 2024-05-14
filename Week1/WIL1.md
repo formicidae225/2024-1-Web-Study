@@ -20,7 +20,7 @@
 
 ```<link rel="stylesheet" href="style.css">```
         # style.css에 작성된 코드를 html 파일에 링크함
-        
+
 ## css문법
 ```
 h1 {
@@ -36,4 +36,4 @@ h1 {
 ```
         #h1으로 감싼 문장을 화면의 가운데로 바꿈
 
-<https://github.com/formicidae225/formicidae225>
+![alt text](image.png)
